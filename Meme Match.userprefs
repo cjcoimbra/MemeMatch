@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/MenuController.cs">
+    <Files>
+      <File FileName="Assets/Code/GameController.cs" Line="53" Column="34" />
+      <File FileName="Assets/Code/Meme.cs" Line="72" Column="26" />
+      <File FileName="Assets/Code/Clock.cs" Line="12" Column="23" />
+      <File FileName="Assets/Code/FloatingScore.cs" Line="26" Column="26" />
+      <File FileName="Assets/Code/MenuController.cs" Line="46" Column="15" />
+      <File FileName="Assets/Code/GameOverController.cs" Line="105" Column="185" />
+      <File FileName="Assets/Plugins/RevMob.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
